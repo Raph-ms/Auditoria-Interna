@@ -1,16 +1,53 @@
 # Auditoria-Interna
 
-Neste projeto usei uma empresa ficticia chamada Botium Toys, uma empresa empresa dos EUA que desenvolve e vende brinquedos. A empresa tem um único local físico, que serve como escritório principal, vitrine e depósito para seus produtos. No entanto, a presença on-line da Botium Toy cresceu, atraindo clientes nos EUA e no exterior.
-Com base nas informações disponíveis foi possível fazer uma avaliação de toda a parte de segurança da empresa. 
-Onde sua nota em uma escala de 0 á 10 ficou com nota 2.
+Botium Toys - Análise de Segurança
+Este projeto foi desenvolvido com base em uma empresa fictícia chamada Botium Toys, uma companhia norte-americana especializada no desenvolvimento e venda de brinquedos.
 
-As recomendações para a resolução destes problemas e conformidade é:
-- Criação e aplicação de uma política de senha
-- Privilégio mínimo
-- Ferramenta de monitoramento de acesso e redes.
-- Criação de um manual para reação a intrusões
-- Testes de segurança
-- Criptografia de dados
-- Atender as diretrizes da GDPR
-- Separar funções
+A Botium Toys possui um único local físico que atua como:
+
+Escritório principal
+
+Showroom (vitrine)
+
+Depósito de produtos
+
+Nos últimos anos, a presença online da empresa cresceu significativamente, atraindo clientes tanto nos Estados Unidos quanto no exterior.
+
+🔐 Avaliação de Segurança
+Foi realizada uma análise completa dos aspectos de segurança da Botium Toys.
+O nível de maturidade em segurança da empresa foi classificado como:
+
+⚙️ Nota de Segurança: 2/10
+Este resultado demonstra uma alta exposição a riscos e a necessidade urgente de implementação de controles e boas práticas de segurança.
+
+✅ Recomendações
+Para aprimorar a segurança da informação e buscar conformidade, recomenda-se:
+
+- Criação e aplicação de uma política de senhas
+Definição de regras para complexidade, validade e troca periódica de senhas.
+
+- Princípio do Privilégio Mínimo
+Garantir que cada colaborador tenha acesso apenas ao que for essencial para sua função.
+
+- Monitoramento de acessos e redes
+Implementação de ferramentas de monitoramento contínuo para detectar acessos não autorizados e atividades suspeitas.
+
+- plano de Resposta a Incidentes
+Criação de um manual com processos claros para resposta a incidentes de segurança.
+
+- Testes de Segurança Frequentes
+Realização de testes de vulnerabilidade e pentests para identificar e corrigir falhas.
+
+- Criptografia de Dados
+Proteção das informações sensíveis em trânsito e em repouso.
+
+- Conformidade com a GDPR
+Atendimento às diretrizes de proteção de dados, especialmente considerando os clientes internacionais.
+
+- Segregação de Funções
+Separação de atividades críticas para reduzir riscos operacionais e de fraude.
+
+
+Sobre o Projeto
+Este projeto tem fins educacionais e simula um cenário real de avaliação e proposta de melhorias em segurança da informação para uma pequena empresa em crescimento digital.
 
