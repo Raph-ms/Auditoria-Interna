@@ -12,4 +12,5 @@ As recomendações para a resolução destes problemas e conformidade é:
 - Testes de segurança
 - Criptografia de dados
 - Atender as diretrizes da GDPR
+- Separar funções
 
