@@ -13,7 +13,7 @@ Depósito de produtos
 
 Nos últimos anos, a presença online da empresa cresceu significativamente, atraindo clientes tanto nos Estados Unidos quanto no exterior.
 
-🔐 Avaliação de Segurança
+ Avaliação de Segurança
 Foi realizada uma análise completa dos aspectos de segurança da Botium Toys.
 O nível de maturidade em segurança da empresa foi classificado como:
 
